@@ -26,7 +26,7 @@
 # 결과
 ## Train & Valid Graph
 - report.ipynb에서 확인 가능
-  
+![loss](https://github.com/ZangZaeSeok/ANN02/assets/36504070/37b3b834-32bb-45eb-88ca-d37272e0a7ca)
 
 ## 문장 생성 결과
 - report.ipynb에서 확인 가능
