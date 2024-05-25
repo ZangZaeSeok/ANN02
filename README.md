@@ -1,5 +1,5 @@
 # ANN02
-인공경망 과제2
+인공 신경망 과제2
 
 ## report
 - report.ipynb: 과제와 연관하여 코드가 수행된 jupyter notebook
